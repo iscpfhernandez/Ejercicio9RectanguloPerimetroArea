@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicio 9</string>
+    <string name="txt_descripcion">Ejercicio 9.</string>
+    <string name="txt_integrantes">Integrantes del equipo: \nUno \nDos</string>
+    <string name="txt_entrar">Entrar</string>
+    <string name="texto_base">Base:</string>
+    <string name="texto_altura">Altura:</string>
+    <string name="texto_perimetro">Perímetro</string>
+    <string name="texto_area">Área</string>
+    <string name="texto_calcular">Calcular</string>
+    <string name="texto_cero">0</string>
+    <string name="texto_perimetro_resultado">El perímetro es: </string>
+    <string name="texto_area_resultado">El área es: </string>
+    <string name="texto_sin_opcion">Sin opción</string>
+    <string name="texto_error">Error</string>
+</resources>
